@@ -128,5 +128,7 @@ console.log(string.includes('Java'))     // true
 
 ---
 Hazırladı - **Zahid Vahabzadə** 
+
 Video dərslər üçün Youtube kanalım - **[Biraz Kod Yazaq](https://www.youtube.com/channel/UCRlKqhooswsmfkxnokxcB0g)** 
+
 Javascript-dən digər dokumentlər üçün - **[Github kanalım](https://github.com/Zahidoz/NodeJS_Tedris)**
