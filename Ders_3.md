@@ -1,4 +1,4 @@
-# Day_18 Conditionals
+# Conditionals
 Şərti ifadələr müxtəlif şərtlər əsasında qərar qəbul etmək üçün istifadə olunur.
 Şərtlər aşağıdakı yollardan istifadə etməklə həyata keçirilə bilər:
  * if
