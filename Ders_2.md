@@ -1,4 +1,4 @@
-# Day_17 Boolean, Operators, Date
+# Boolean, Operators, Date
 **Boolean dəyərlər**
 ```js
 let isLightOn = true
