@@ -1,4 +1,4 @@
-# Day_16 Data types
+# Data types
 
 
 * **Primitiv** data tipləri 
